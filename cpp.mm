@@ -1,7 +1,7 @@
 <map version="freeplane 1.12.1">
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <node TEXT="C++" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1740925227352"><hook NAME="MapStyle" background="#ffffffff" zoom="1.21">
-    <properties show_icon_for_attributes="true" show_tags="UNDER_NODES" show_note_icons="true" fit_to_viewport="false;" show_icons="BESIDE_NODES" showTagCategories="false" edgeColorConfiguration="#80808063,#808080ff,#808080ff,#808080ff,#808080ff"/>
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#80808063,#808080ff,#808080ff,#808080ff,#808080ff" show_tags="UNDER_NODES" show_note_icons="true" fit_to_viewport="false;" show_icons="BESIDE_NODES" showTagCategories="false"/>
     <tags category_separator="::"/>
 
 <map_styles>
@@ -93,8 +93,8 @@
 <font SIZE="10"/>
 <edge WIDTH="3"/>
 <node TEXT="basic" LOCALIZED_STYLE_REF="styles.topic" POSITION="bottom_or_right" ID="ID_1479062675" CREATED="1514743378702" MODIFIED="1740925151703" COLOR="#003399" BACKGROUND_COLOR="#ffffff" STYLE="bubble">
-<hook NAME="AlwaysUnfoldedNode"/>
 <font SIZE="10"/>
+<hook NAME="AlwaysUnfoldedNode"/>
 <edge COLOR="#ff0099" WIDTH="3"/>
 <node TEXT="binding" STYLE_REF="Stichpunkt" FOLDED="true" ID="ID_1894797471" CREATED="1515338414625" MODIFIED="1740925151704" STYLE="rectangle">
 <font SIZE="10"/>
@@ -415,8 +415,8 @@
 </node>
 </node>
 <node TEXT="elements" LOCALIZED_STYLE_REF="styles.topic" POSITION="bottom_or_right" ID="ID_738190097" CREATED="1514396863423" MODIFIED="1740925151724" COLOR="#003399" STYLE="bubble">
-<hook NAME="AlwaysUnfoldedNode"/>
 <font SIZE="10"/>
+<hook NAME="AlwaysUnfoldedNode"/>
 <edge COLOR="#00cc66" WIDTH="3"/>
 <node TEXT="datatypes" STYLE_REF="Stichpunkt" FOLDED="true" ID="ID_55284723" CREATED="1514469270437" MODIFIED="1740925151724" STYLE="rectangle">
 <font SIZE="10"/>
@@ -4212,7 +4212,7 @@
 <font SIZE="10"/>
 </node>
 </node>
-<node TEXT="objects" STYLE_REF="Stichpunkt" ID="ID_1050126748" CREATED="1514394695045" MODIFIED="1740925151822" STYLE="rectangle">
+<node TEXT="objects" STYLE_REF="Stichpunkt" FOLDED="true" ID="ID_1050126748" CREATED="1514394695045" MODIFIED="1740925151822" STYLE="rectangle">
 <font SIZE="10"/>
 <edge COLOR="#99ff00" WIDTH="3"/>
 <node TEXT="class" STYLE_REF="Beschreibung" ID="ID_870887196" CREATED="1514985989046" MODIFIED="1740925151822">
@@ -11383,8 +11383,8 @@
 </node>
 </node>
 <node TEXT="techniques" LOCALIZED_STYLE_REF="styles.topic" POSITION="bottom_or_right" ID="ID_1418801475" CREATED="1514396903564" MODIFIED="1740925151923" COLOR="#003399" STYLE="bubble">
-<hook NAME="AlwaysUnfoldedNode"/>
 <font SIZE="10"/>
+<hook NAME="AlwaysUnfoldedNode"/>
 <edge COLOR="#6633ff" WIDTH="3"/>
 <node TEXT="" STYLE_REF="Beschreibung" ID="ID_1718412109" CREATED="1515514506876" MODIFIED="1740925151923">
 <hook NAME="AlwaysUnfoldedNode"/>
